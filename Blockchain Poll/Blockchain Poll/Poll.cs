@@ -10,9 +10,9 @@ using System.Windows.Forms;
 
 namespace Blockchain_Poll
 {
-    public partial class Form1 : Form
+    public partial class Poll : Form
     {
-        public Form1()
+        public Poll()
         {
             InitializeComponent();
         }

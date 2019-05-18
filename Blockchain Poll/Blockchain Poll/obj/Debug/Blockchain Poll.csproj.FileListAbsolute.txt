@@ -1,0 +1,10 @@
+C:\Users\Augiz\Documents\GitHub\Blockchain-Poll\Blockchain Poll\Blockchain Poll\bin\Debug\Blockchain Poll.exe.config
+C:\Users\Augiz\Documents\GitHub\Blockchain-Poll\Blockchain Poll\Blockchain Poll\bin\Debug\Blockchain Poll.exe
+C:\Users\Augiz\Documents\GitHub\Blockchain-Poll\Blockchain Poll\Blockchain Poll\bin\Debug\Blockchain Poll.pdb
+C:\Users\Augiz\Documents\GitHub\Blockchain-Poll\Blockchain Poll\Blockchain Poll\obj\Debug\Blockchain Poll.csprojAssemblyReference.cache
+C:\Users\Augiz\Documents\GitHub\Blockchain-Poll\Blockchain Poll\Blockchain Poll\obj\Debug\Blockchain_Poll.Poll.resources
+C:\Users\Augiz\Documents\GitHub\Blockchain-Poll\Blockchain Poll\Blockchain Poll\obj\Debug\Blockchain_Poll.Properties.Resources.resources
+C:\Users\Augiz\Documents\GitHub\Blockchain-Poll\Blockchain Poll\Blockchain Poll\obj\Debug\Blockchain Poll.csproj.GenerateResource.cache
+C:\Users\Augiz\Documents\GitHub\Blockchain-Poll\Blockchain Poll\Blockchain Poll\obj\Debug\Blockchain Poll.csproj.CoreCompileInputs.cache
+C:\Users\Augiz\Documents\GitHub\Blockchain-Poll\Blockchain Poll\Blockchain Poll\obj\Debug\Blockchain Poll.exe
+C:\Users\Augiz\Documents\GitHub\Blockchain-Poll\Blockchain Poll\Blockchain Poll\obj\Debug\Blockchain Poll.pdb
