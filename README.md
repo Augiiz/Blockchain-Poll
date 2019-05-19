@@ -1,4 +1,4 @@
-# Blockchain-PolliarineMeska
+# Blockchain-Poll
 Practical task #4
 
 
@@ -16,9 +16,9 @@ Reikalavimai programai:
 
 Reikalavimai komandiniam darbui:
 
-* komaMan darbo organizavimas, komandinio darbo organizavimo įrankių naudojimas (20 taškų).
+* komandinio darbo organizavimas, komandinio darbo organizavimo įrankių naudojimas (20 taškų).
 
-Užduoties likimo terminai: 
-Per paskutinę paskaitą mirsim
+Užduoties atlikimo terminai: 
+Per paskutinę paskaitą
 
 Šią užduotį daryti 2-3 asmenų komandoje. Komandos sudėtį privalu pranešti iš anksto.
