@@ -8,6 +8,8 @@ namespace Blockchain_Poll
 {
     static class Program
     {
+        /// I fear for the calendar,
+        /// it's days are numbered. >:D
         /// <summary>
         /// The main entry point for the application.
         /// </summary>
