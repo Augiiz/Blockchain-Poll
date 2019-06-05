@@ -4,11 +4,11 @@
   <PropertyGroup>
     <Configuration Condition=" '$(Configuration)' == '' ">Debug</Configuration>
     <Platform Condition=" '$(Platform)' == '' ">AnyCPU</Platform>
-    <ProjectGuid>{8BAED0AD-E673-4726-BFD8-8FFDCB354A93}</ProjectGuid>
+    <ProjectGuid>{6948602F-01B1-4CE0-BE46-476B4580F13B}</ProjectGuid>
     <OutputType>WinExe</OutputType>
-    <RootNamespace>Blockchain_Poll</RootNamespace>
-    <AssemblyName>Blockchain Poll</AssemblyName>
-    <TargetFrameworkVersion>v4.7.2</TargetFrameworkVersion>
+    <RootNamespace>PrezidentoRinkimai</RootNamespace>
+    <AssemblyName>PrezidentoRinkimai</AssemblyName>
+    <TargetFrameworkVersion>v4.6.1</TargetFrameworkVersion>
     <FileAlignment>512</FileAlignment>
     <AutoGenerateBindingRedirects>true</AutoGenerateBindingRedirects>
     <Deterministic>true</Deterministic>
@@ -46,16 +46,24 @@
     <Reference Include="System.Xml" />
   </ItemGroup>
   <ItemGroup>
-    <Compile Include="Poll.cs">
+    <Compile Include="Block.cs" />
+    <Compile Include="Blockchain.cs" />
+    <Compile Include="Serveris.cs">
       <SubType>Form</SubType>
     </Compile>
-    <Compile Include="Poll.Designer.cs">
-      <DependentUpon>Poll.cs</DependentUpon>
+    <Compile Include="Serveris.Designer.cs">
+      <DependentUpon>Serveris.cs</DependentUpon>
     </Compile>
     <Compile Include="Program.cs" />
     <Compile Include="Properties\AssemblyInfo.cs" />
-    <EmbeddedResource Include="Poll.resx">
-      <DependentUpon>Poll.cs</DependentUpon>
+    <Compile Include="Vote.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Vote.Designer.cs">
+      <DependentUpon>Vote.cs</DependentUpon>
+    </Compile>
+    <EmbeddedResource Include="Serveris.resx">
+      <DependentUpon>Serveris.cs</DependentUpon>
     </EmbeddedResource>
     <EmbeddedResource Include="Properties\Resources.resx">
       <Generator>ResXFileCodeGenerator</Generator>
@@ -66,6 +74,9 @@
       <AutoGen>True</AutoGen>
       <DependentUpon>Resources.resx</DependentUpon>
     </Compile>
+    <EmbeddedResource Include="Vote.resx">
+      <DependentUpon>Vote.cs</DependentUpon>
+    </EmbeddedResource>
     <None Include="Properties\Settings.settings">
       <Generator>SettingsSingleFileGenerator</Generator>
       <LastGenOutput>Settings.Designer.cs</LastGenOutput>

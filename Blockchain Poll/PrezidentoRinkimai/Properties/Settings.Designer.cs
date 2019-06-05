@@ -8,7 +8,7 @@
 // </auto-generated>
 //------------------------------------------------------------------------------
 
-namespace Blockchain_Poll.Properties
+namespace PrezidentoRinkimai.Properties
 {
 
 
