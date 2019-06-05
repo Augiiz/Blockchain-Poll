@@ -357,7 +357,7 @@ namespace PrezidentoRinkimai
             form.ShowDialog();
             this.Show();
             cc = true;
-            if(cc==true)button69.Enabled = false;
+            if(cc==true)button69.Enabled = false; button69.Text = "Jus jau balsavote";
         }
 
     }
