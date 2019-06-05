@@ -230,31 +230,12 @@ namespace GeriausiasDainininkas
 
             foreach (Block blck in blockchain.Chain)
             {
-                if (blck.Data == "RADŽI")
-                {
-                    pasirinkimas1++;
-                }
-                else if (blck.Data == "MINEDAS")
-                {
-                    pasirinkimas2++;
-                }
-                else if (blck.Data == "MONIQUE")
-                {
-                    pasirinkimas3++;
-                }
-                if (blck.Data == "DJ ALEX BIT")
-                {
-                    pasirinkimas4++;
-                }
-                else if (blck.Data == "SEL")
-                {
-                    pasirinkimas5++;
-                }
-                else if (blck.Data == "OSTAPENKO")
-                {
-                    pasirinkimas6++;
-                }
-                
+                if (blck.Data == "RADŽI")pasirinkimas1++;
+                if (blck.Data == "MINEDAS")pasirinkimas2++;
+                if (blck.Data == "MONIQUE")pasirinkimas3++;
+                if (blck.Data == "DJ ALEX BIT")pasirinkimas4++;
+                if (blck.Data == "SEL")pasirinkimas5++;
+                if (blck.Data == "OSTAPENKO")pasirinkimas6++;
             }
 
             DataTable dt = new DataTable();
@@ -325,7 +306,7 @@ namespace GeriausiasDainininkas
             form.ShowDialog();
             this.Show();
             cc = true;
-            if(cc==true)button1.Enabled = false; button1.Text = "Jus jau balsavote";
+            if(cc)button1.Enabled = false; button1.Text = "Jus jau balsavote";
         }
 
     }
