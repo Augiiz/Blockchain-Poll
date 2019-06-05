@@ -1,0 +1,11 @@
+D:\Downloadai\metu dainininkai (1)\metu dainininkai\Blockchain Poll\lietuvostalentai\bin\Debug\lietuvostalentai.exe.config
+D:\Downloadai\metu dainininkai (1)\metu dainininkai\Blockchain Poll\lietuvostalentai\bin\Debug\lietuvostalentai.exe
+D:\Downloadai\metu dainininkai (1)\metu dainininkai\Blockchain Poll\lietuvostalentai\bin\Debug\lietuvostalentai.pdb
+D:\Downloadai\metu dainininkai (1)\metu dainininkai\Blockchain Poll\lietuvostalentai\obj\Debug\lietuvostalentai.csprojAssemblyReference.cache
+D:\Downloadai\metu dainininkai (1)\metu dainininkai\Blockchain Poll\lietuvostalentai\obj\Debug\GeriausiasDainininkas.Serveris.resources
+D:\Downloadai\metu dainininkai (1)\metu dainininkai\Blockchain Poll\lietuvostalentai\obj\Debug\lietuvostalentai.Properties.Resources.resources
+D:\Downloadai\metu dainininkai (1)\metu dainininkai\Blockchain Poll\lietuvostalentai\obj\Debug\GeriausiasDainininkas.Vote.resources
+D:\Downloadai\metu dainininkai (1)\metu dainininkai\Blockchain Poll\lietuvostalentai\obj\Debug\lietuvostalentai.csproj.GenerateResource.cache
+D:\Downloadai\metu dainininkai (1)\metu dainininkai\Blockchain Poll\lietuvostalentai\obj\Debug\lietuvostalentai.csproj.CoreCompileInputs.cache
+D:\Downloadai\metu dainininkai (1)\metu dainininkai\Blockchain Poll\lietuvostalentai\obj\Debug\lietuvostalentai.exe
+D:\Downloadai\metu dainininkai (1)\metu dainininkai\Blockchain Poll\lietuvostalentai\obj\Debug\lietuvostalentai.pdb
