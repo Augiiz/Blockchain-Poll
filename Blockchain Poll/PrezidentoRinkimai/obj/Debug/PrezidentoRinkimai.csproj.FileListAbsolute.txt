@@ -32,3 +32,14 @@ C:\Users\Augiz\Documents\GitHub\Blockchain-Poll\Blockchain Poll\PrezidentoRinkim
 C:\Users\Augiz\Documents\GitHub\Blockchain-Poll\Blockchain Poll\PrezidentoRinkimai\obj\Debug\PrezidentoRinkimai.csproj.CoreCompileInputs.cache
 C:\Users\Augiz\Documents\GitHub\Blockchain-Poll\Blockchain Poll\PrezidentoRinkimai\obj\Debug\PrezidentoRinkimai.exe
 C:\Users\Augiz\Documents\GitHub\Blockchain-Poll\Blockchain Poll\PrezidentoRinkimai\obj\Debug\PrezidentoRinkimai.pdb
+C:\Users\Karolis\Desktop\rinkimai\Blockchain Poll\PrezidentoRinkimai\bin\Debug\PrezidentoRinkimai.exe.config
+C:\Users\Karolis\Desktop\rinkimai\Blockchain Poll\PrezidentoRinkimai\bin\Debug\PrezidentoRinkimai.exe
+C:\Users\Karolis\Desktop\rinkimai\Blockchain Poll\PrezidentoRinkimai\bin\Debug\PrezidentoRinkimai.pdb
+C:\Users\Karolis\Desktop\rinkimai\Blockchain Poll\PrezidentoRinkimai\obj\Debug\PrezidentoRinkimai.csprojAssemblyReference.cache
+C:\Users\Karolis\Desktop\rinkimai\Blockchain Poll\PrezidentoRinkimai\obj\Debug\PrezidentoRinkimai.Serveris.resources
+C:\Users\Karolis\Desktop\rinkimai\Blockchain Poll\PrezidentoRinkimai\obj\Debug\PrezidentoRinkimai.Properties.Resources.resources
+C:\Users\Karolis\Desktop\rinkimai\Blockchain Poll\PrezidentoRinkimai\obj\Debug\PrezidentoRinkimai.Vote.resources
+C:\Users\Karolis\Desktop\rinkimai\Blockchain Poll\PrezidentoRinkimai\obj\Debug\PrezidentoRinkimai.csproj.GenerateResource.cache
+C:\Users\Karolis\Desktop\rinkimai\Blockchain Poll\PrezidentoRinkimai\obj\Debug\PrezidentoRinkimai.csproj.CoreCompileInputs.cache
+C:\Users\Karolis\Desktop\rinkimai\Blockchain Poll\PrezidentoRinkimai\obj\Debug\PrezidentoRinkimai.exe
+C:\Users\Karolis\Desktop\rinkimai\Blockchain Poll\PrezidentoRinkimai\obj\Debug\PrezidentoRinkimai.pdb
