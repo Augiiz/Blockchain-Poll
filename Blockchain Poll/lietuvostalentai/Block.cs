@@ -3,7 +3,7 @@ using System.Security.Cryptography;
 using System.Text;
 
 
-namespace GeriausiasDainininkas
+namespace lietuvostalentai
 {
     [Serializable]
     public class Block

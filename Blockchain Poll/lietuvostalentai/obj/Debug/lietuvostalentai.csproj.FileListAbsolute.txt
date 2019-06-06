@@ -9,3 +9,15 @@ D:\Downloadai\metu dainininkai (1)\metu dainininkai\Blockchain Poll\lietuvostale
 D:\Downloadai\metu dainininkai (1)\metu dainininkai\Blockchain Poll\lietuvostalentai\obj\Debug\lietuvostalentai.csproj.CoreCompileInputs.cache
 D:\Downloadai\metu dainininkai (1)\metu dainininkai\Blockchain Poll\lietuvostalentai\obj\Debug\lietuvostalentai.exe
 D:\Downloadai\metu dainininkai (1)\metu dainininkai\Blockchain Poll\lietuvostalentai\obj\Debug\lietuvostalentai.pdb
+C:\Users\Augiz\Documents\GitHub\Blockchain-Poll\Blockchain Poll\lietuvostalentai\bin\Debug\lietuvostalentai.exe.config
+C:\Users\Augiz\Documents\GitHub\Blockchain-Poll\Blockchain Poll\lietuvostalentai\bin\Debug\lietuvostalentai.exe
+C:\Users\Augiz\Documents\GitHub\Blockchain-Poll\Blockchain Poll\lietuvostalentai\bin\Debug\lietuvostalentai.pdb
+C:\Users\Augiz\Documents\GitHub\Blockchain-Poll\Blockchain Poll\lietuvostalentai\obj\Debug\lietuvostalentai.csprojAssemblyReference.cache
+C:\Users\Augiz\Documents\GitHub\Blockchain-Poll\Blockchain Poll\lietuvostalentai\obj\Debug\lietuvostalentai.Properties.Resources.resources
+C:\Users\Augiz\Documents\GitHub\Blockchain-Poll\Blockchain Poll\lietuvostalentai\obj\Debug\lietuvostalentai.csproj.GenerateResource.cache
+C:\Users\Augiz\Documents\GitHub\Blockchain-Poll\Blockchain Poll\lietuvostalentai\obj\Debug\lietuvostalentai.csproj.CoreCompileInputs.cache
+C:\Users\Augiz\Documents\GitHub\Blockchain-Poll\Blockchain Poll\lietuvostalentai\obj\Debug\lietuvostalentai.exe
+C:\Users\Augiz\Documents\GitHub\Blockchain-Poll\Blockchain Poll\lietuvostalentai\obj\Debug\lietuvostalentai.pdb
+C:\Users\Augiz\Documents\GitHub\Blockchain-Poll\Blockchain Poll\lietuvostalentai\obj\Debug\lietuvostalentai.Serveris.resources
+C:\Users\Augiz\Documents\GitHub\Blockchain-Poll\Blockchain Poll\lietuvostalentai\obj\Debug\lietuvostalentai.Vote.resources
+C:\Users\Augiz\Documents\GitHub\Blockchain-Poll\Blockchain Poll\lietuvostalentai\obj\Debug\lietuvostalentai.langai.resources

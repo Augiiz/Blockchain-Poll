@@ -1,4 +1,4 @@
-﻿namespace GeriausiasDainininkas
+﻿namespace lietuvostalentai
 {
     partial class Vote
     {

@@ -5,7 +5,7 @@ using System.Threading.Tasks;
 using System.Windows.Forms;
 using System.Threading;
 
-namespace GeriausiasDainininkas
+namespace lietuvostalentai
 {
     static class Program
     {
@@ -17,22 +17,7 @@ namespace GeriausiasDainininkas
         {
             Application.EnableVisualStyles();
             Application.SetCompatibleTextRenderingDefault(false);
-            List<string> IPs = new List<string>();
-            List<string> Ports = new List<string>();
-            IPs.Add("127.0.0.1");
-            IPs.Add("127.0.0.1");
-            IPs.Add("127.0.0.1");
-            IPs.Add("127.0.0.1");
-            Ports.Add("1");
-            Ports.Add("2");
-            Ports.Add("3");
-            Ports.Add("4");
-            for (int i = 0; i < Ports.Count; i++)
-            {
-                string port = Ports[i].ToString();
-                string ip = IPs[i].ToString();
-                new Thread(() => new Serveris(ip, port, IPs, Ports).ShowDialog()).Start();
-            }
+            Application.Run(new langai());
         }
     }
 }

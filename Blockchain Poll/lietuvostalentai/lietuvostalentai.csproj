@@ -48,6 +48,12 @@
   <ItemGroup>
     <Compile Include="Block.cs" />
     <Compile Include="Blockchain.cs" />
+    <Compile Include="langai.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="langai.Designer.cs">
+      <DependentUpon>langai.cs</DependentUpon>
+    </Compile>
     <Compile Include="Serveris.cs">
       <SubType>Form</SubType>
     </Compile>
@@ -62,6 +68,9 @@
     <Compile Include="Vote.Designer.cs">
       <DependentUpon>Vote.cs</DependentUpon>
     </Compile>
+    <EmbeddedResource Include="langai.resx">
+      <DependentUpon>langai.cs</DependentUpon>
+    </EmbeddedResource>
     <EmbeddedResource Include="Serveris.resx">
       <DependentUpon>Serveris.cs</DependentUpon>
     </EmbeddedResource>

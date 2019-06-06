@@ -13,7 +13,7 @@ using System.Net.Sockets;
 using System.IO;
 using System.Runtime.Serialization.Formatters.Binary;
 
-namespace GeriausiasDainininkas
+namespace lietuvostalentai
 {
     public partial class Serveris : Form
     {
